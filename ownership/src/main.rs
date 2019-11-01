@@ -102,5 +102,5 @@ fn calculate_length(s: &String) -> usize {
 }
 
 fn change(s: &mut String) {
-    s.push_str(" asshole");
+    s.push_str(" world");
 }
